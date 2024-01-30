@@ -1,0 +1,17 @@
+{
+	"name": "@kyeshmz/td-signaling-types",
+	"version": "1.0.0",
+	"description": "",
+	"types": "./index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"TouchDesigner",
+		"Signaling",
+		"WebRTC",
+		"Typescript"
+	],
+	"author": "kyeshmz",
+	"license": "MIT"
+}
