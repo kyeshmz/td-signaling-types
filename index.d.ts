@@ -66,7 +66,6 @@ export type Message = {
 
 export type Metadata = {
 	apiVersion: string;
-	description: string;
 	compVersion: string;
 	compOrigin: string;
 	projectName: string;
