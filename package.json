@@ -1,6 +1,6 @@
 {
 	"name": "@kyeshmz/td-signaling-types",
-	"version": "1.0.5",
+	"version": "1.0.7",
 	"description": "",
 	"types": "./index.d.ts",
 	"scripts": {
