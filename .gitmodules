@@ -1,0 +1,3 @@
+[submodule "SignalingAPI"]
+	path = SignalingAPI
+	url = git@github.com:TouchDesigner/SignalingAPI.git
