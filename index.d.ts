@@ -53,7 +53,7 @@ export type Ice = {
 	target: string;
 	content: {
 		sdpCandidate: string;
-		sdpMLineIndex: string;
+		sdpMLineIndex: number;
 		sdpMid: string;
 	};
 };
